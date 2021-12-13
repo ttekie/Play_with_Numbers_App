@@ -1,11 +1,3 @@
-//---------------------------------------------------
-// Programmer: Tesfalem Tekie
-// Course: 	COSC 1437 Section 003
-// Semester: Summer 2020
-// Assignment #: 1
-// Due Date: June 17, 2020
-//---------------------------------------------------
-
 import javax.swing.*;
 
 import java.text.NumberFormat;
